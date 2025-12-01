@@ -1,5 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on becoming a solidified Data Engineer<br>- 🌱 I’m currently learning GCP<br>- 👯 I’m looking to collaborate on Unity 3D<br>- 🤔 I’m looking for help with N/A<br>- 💬 Ask me about anything<br>- 📫 How to reach me: gwalter05@proton.me<br>- 😄 Pronouns: He/Him
+
+![eldenring](https://github.com/user-attachments/assets/d1cae2a7-c06f-4ee0-bf84-28b2247c313e)
+
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢁⠀⢀⠠⣀⠰⢠⠐⡈⠉⠉⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
